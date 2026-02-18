@@ -1,7 +1,7 @@
 ![Web Development](https://media.licdn.com/dms/image/v2/D5616AQFQNQzJpzpmiA/profile-displaybackgroundimage-shrink_200_800/B56Zol_ipqHAAU-/0/1761574006339?e=1773273600&v=beta&t=cZIWn9JBx-yqlV9yQaU1LiSzsiLXBBU3wFO4Rq7Tmbw)
 
 ### I'm Hasib Hossain
-#### Web Development
+#### Web & Backend Development
 
 
 Passionate about blending technology and creativity, I’m a web developer who thrives on crafting unique digital experiences. I transform ideas into captivating online solutions that are both functional and visually stunning. With a problem-solving mindset and collaborative spirit, I love building immersive websites that inspire, engage, and leave a lasting impact.”
