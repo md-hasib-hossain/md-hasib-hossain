@@ -1,4 +1,4 @@
-![Web Development](https://media.licdn.com/dms/image/v2/D5616AQFQNQzJpzpmiA/profile-displaybackgroundimage-shrink_200_800/B56Zol_ipqHAAU-/0/1761574006339?e=1773273600&v=beta&t=cZIWn9JBx-yqlV9yQaU1LiSzsiLXBBU3wFO4Rq7Tmbw)
+![Web Development](https://media.licdn.com/dms/image/v2/D5616AQFQNQzJpzpmiA/profile-displaybackgroundimage-shrink_350_1400/B56Zol_ipqHAAY-/0/1761574006339?e=1785369600&v=beta&t=GLIA8_wxFtHR-zKnrsTEXUHF8GSepC0cPoIMcKuaDGw)
 
 ### I'm Hasib Hossain
 #### Web & Backend Development
